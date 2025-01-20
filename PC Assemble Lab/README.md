@@ -9,13 +9,13 @@
    <img src="https://github.com/user-attachments/assets/595027ed-f408-4922-999a-5a8a78077084" width="180" /> 
 2. Unplug all the cables that are connected to different components.  
 3. Remove the power supply unit.  
-   ![Power supply](path_to_your_image.jpg)  
+   <img src="https://github.com/user-attachments/assets/19f53a90-4002-4a96-9cd7-e1496923f9af" width="180" />  
 4. Remove the Random Access Memory (RAM).  
-   ![Removing RAM](path_to_your_image.jpg)  
-5. Remove the hard disk (HDD).  
+   <img src="https://github.com/user-attachments/assets/00bc5ef3-5294-4516-855f-0898c63b8720" width="180" />
+5. Remove the Hard Disk (HDD).  
    <img src="https://github.com/user-attachments/assets/175b27f5-1c75-45df-a293-384d59a62a83" width="180" />
 6. Remove the CPU Fan.  
-   ![Removing CPU fan](path_to_your_image.jpg)
+   <img src="https://github.com/user-attachments/assets/4d4378c4-5f8b-4e3d-94a3-d8c91399896a" width="180" />
 
 ## To assemble the PC back, we do it reversely by:
 
@@ -24,14 +24,13 @@
 3. Install the RAM.
 4. Install the power supply unit.
 5. Connect the cables to the relevant components.
-6. Close the casing.  
-   ![Closed PC casing](path_to_your_image.jpg)
-7. Test it with a monitor!  
+6. Test it with a monitor!
+   
    And....  
    Successfully switch on the monitor! Hooray🎉  
    ![Test monitor](path_to_your_image.jpg)  
    [Video: PC Assembly Process](video_url)  
-8. Lastly, close the casing back.  
+7. Lastly, close the casing back.  
    ![Final step](path_to_your_image.jpg)
 
 ## ALL DONE! 🎉
