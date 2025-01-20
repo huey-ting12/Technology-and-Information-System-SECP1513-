@@ -4,6 +4,7 @@ The Technology and Information Systems (SECP1513) subject has been a very valuab
 
 Another highlight was the chance to visit different industries and attend talks by experts in the field. These experiences gave me a better understanding of how the concepts we studied in class are used in real-world situations. I’m grateful for the opportunities this course provided, and I feel that I’ve gained important skills and knowledge that will be useful as I move forward in the field of technology. 🚀
 
+### My Learning Progress
 - ✅ Completed PC assemble lab
 - ✅ Attended all industry talks
 - ✅ Attended all industrial visits
