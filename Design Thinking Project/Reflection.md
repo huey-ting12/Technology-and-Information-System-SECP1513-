@@ -7,10 +7,11 @@ This **Design Thinking** project has been an incredible journey, and I’m reall
 ### 🚀 **Working Through the Five Stages**
 Working through the five stages of **Design Thinking**—**Empathize**, **Define**, **Ideate**, **Prototype**, and **Test**—helped me realize that innovation starts with truly understanding the user. First, we needed to **empathize with the user**, then **define the problem**, and only after that could we begin **brainstorming solutions**. After a lot of collaboration and many brainstorming sessions, our team decided to develop a **Smart Vending Machine** with **AI voice chat**, a **locker system** to prevent items from getting stuck, and **IoT integration** for both the vending machine operator and the users.
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <div style="text-align: center; margin: 10px;">
-        <h3>Our prototype</h3>
-        <img src="https://github.com/user-attachments/assets/953c3654-3676-4849-8135-7175c6dc9d0d" width="350" height="300"/>
+<h3><strong>Our Prototype:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Our Product:</strong></h3>    
+
+<img src="https://github.com/user-attachments/assets/953c3654-3676-4849-8135-7175c6dc9d0d" width="350" height="300"/>
+
+<img src="https://github.com/user-attachments/assets/6d320658-6b7e-4077-90e3-646730eaa887" width="300" height="350"/>
 
 ---
 
