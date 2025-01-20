@@ -13,6 +13,9 @@ Working through the five stages of **Design Thinking**—**Empathize**, **Define
 
 One of the highlights of this project was the opportunity to dive into **Figma** and design the **UI** for our application, a responsibility I was given. As someone who is still new to **UI design**, it was an amazing experience to learn and experiment with this tool. I’m definitely still a beginner, but I feel like I’ve gained valuable skills and insights.
 
+User App:
+<img src="https://github.com/user-attachments/assets/eed22967-4a70-410d-bb1a-020c304000b7" width="300"/>
+
 ---
 
 ### 🎉 **In Summary**  
