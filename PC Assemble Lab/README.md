@@ -29,6 +29,9 @@
 3. Install the RAM.
 4. Install the power supply unit.
 5. Connect the cables to the relevant components.
+
+   <img src="https://github.com/user-attachments/assets/deb7cc92-9ef1-4975-98e2-4fb123584d65" width="180" />
+
 6. Test it with a monitor!
    
    <img src="https://github.com/user-attachments/assets/7734a19d-0a9d-4556-a6a1-05f751158d7a" width="180" />
