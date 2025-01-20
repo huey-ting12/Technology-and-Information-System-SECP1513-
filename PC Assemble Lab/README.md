@@ -6,7 +6,7 @@
 
 ## Procedure for disassembling CPU:
 1. Firstly, open the casing of the CPU.  
-   ![Open CPU casing](path_to_your_image.jpg)  
+   <img src="https://github.com/user-attachments/assets/595027ed-f408-4922-999a-5a8a78077084" width="180" /> 
 2. Unplug all the cables that are connected to different components.  
 3. Remove the power supply unit.  
    ![Power supply](path_to_your_image.jpg)  
