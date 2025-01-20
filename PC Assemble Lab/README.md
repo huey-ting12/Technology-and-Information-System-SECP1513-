@@ -8,7 +8,6 @@
 1. Firstly, open the casing of the CPU.  
    ![Open CPU casing](path_to_your_image.jpg)  
 2. Unplug all the cables that are connected to different components.  
-   ![Unplugging cables](path_to_your_image.jpg)  
 3. Remove the power supply unit.  
    ![Power supply](path_to_your_image.jpg)  
 4. Remove the Random Access Memory (RAM).  
