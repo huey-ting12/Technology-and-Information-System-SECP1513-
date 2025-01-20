@@ -13,7 +13,7 @@
 4. Remove the Random Access Memory (RAM).  
    ![Removing RAM](path_to_your_image.jpg)  
 5. Remove the hard disk (HDD).  
-   ![Hard disk](path_to_your_image.jpg)  
+   <img src="https://github.com/user-attachments/assets/175b27f5-1c75-45df-a293-384d59a62a83" width="180" />
 6. Remove the CPU Fan.  
    ![Removing CPU fan](path_to_your_image.jpg)
 
