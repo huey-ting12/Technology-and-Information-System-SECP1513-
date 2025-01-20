@@ -9,8 +9,7 @@ Working through the five stages of **Design Thinking**—**Empathize**, **Define
 
 ---
 
-### 🎨 **Exploring Figma for UI Design**  <img src="https://github.com/user-attachments/assets/f1447c38-43a4-4219-a073-b8646cfb6bfe" width="100" />
-
+### 🎨 **Exploring Figma for UI Design** 
 
 One of the highlights of this project was the opportunity to dive into **Figma** and design the **UI** for our application, a responsibility I was given. As someone who is still new to **UI design**, it was an amazing experience to learn and experiment with this tool. I’m definitely still a beginner, but I feel like I’ve gained valuable skills and insights.
 
