@@ -7,13 +7,16 @@ This **Design Thinking** project has been an incredible journey, and I’m reall
 ### 🚀 **Working Through the Five Stages**
 Working through the five stages of **Design Thinking**—**Empathize**, **Define**, **Ideate**, **Prototype**, and **Test**—helped me realize that innovation starts with truly understanding the user. First, we needed to **empathize with the user**, then **define the problem**, and only after that could we begin **brainstorming solutions**. After a lot of collaboration and many brainstorming sessions, our team decided to develop a **Smart Vending Machine** with **AI voice chat**, a **locker system** to prevent items from getting stuck, and **IoT integration** for both the vending machine operator and the users.
 
-Our prototype:
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="text-align: center; margin: 10px;">
+        <h3>Our prototype</h3>
+        <img src="https://github.com/user-attachments/assets/953c3654-3676-4849-8135-7175c6dc9d0d" width="350" height="300"/>
 
 ---
 
 ### 🎨 **Exploring Figma for UI Design** 
 
-One of the highlights of this project was the opportunity for me to dive into **Figma** and design the **UI** for our application. As someone who is still new to **UI design**, it was an amazing experience to learn and experiment with this tool. I’m definitely still a beginner, but I feel like I’ve gained valuable skills and insights that will guide me in future design projects! 💡
+One of the highlights of this project **was the opportunity for me to dive into Figma** and design the **UI** for our application. As someone who is still new to **UI design**, it was an amazing experience to learn and experiment with this tool. I’m definitely still a beginner, but I feel like I’ve gained valuable skills and insights that will guide me in future design projects! 💡
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <div style="text-align: center; margin: 10px;">
@@ -22,7 +25,7 @@ One of the highlights of this project was the opportunity for me to dive into **
     </div>
     <div style="text-align: center; margin: 10px;">
         <h3>Seller APP</h3>
-        <img src="https://github.com/user-attachments/assets/2475737e-1c5f-4f90-9f3d-21856dedc9b3" width="300" height="300"/>
+        <img src="https://github.com/user-attachments/assets/2475737e-1c5f-4f90-9f3d-21856dedc9b3" width="300" height="350"/>
     </div>
 </div>
 
