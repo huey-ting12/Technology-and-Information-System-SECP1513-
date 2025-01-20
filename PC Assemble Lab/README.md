@@ -5,16 +5,21 @@
 ##### There are some photos below showing our progress: 
 
 ## Procedure for disassembling CPU:
-1. Firstly, open the casing of the CPU.  
+1. Firstly, open the casing of the CPU.
+     
    <img src="https://github.com/user-attachments/assets/595027ed-f408-4922-999a-5a8a78077084" width="180" /> 
 2. Unplug all the cables that are connected to different components.  
-3. Remove the power supply unit.  
+3. Remove the power supply unit.
+    
    <img src="https://github.com/user-attachments/assets/19f53a90-4002-4a96-9cd7-e1496923f9af" width="180" />  
-4. Remove the Random Access Memory (RAM).  
+4. Remove the Random Access Memory (RAM).
+   
    <img src="https://github.com/user-attachments/assets/00bc5ef3-5294-4516-855f-0898c63b8720" width="180" />
-5. Remove the Hard Disk (HDD).  
+5. Remove the Hard Disk (HDD).
+   
    <img src="https://github.com/user-attachments/assets/175b27f5-1c75-45df-a293-384d59a62a83" width="180" />
-6. Remove the CPU Fan.  
+6. Remove the CPU Fan.
+    
    <img src="https://github.com/user-attachments/assets/4d4378c4-5f8b-4e3d-94a3-d8c91399896a" width="180" />
 
 ## To assemble the PC back, we do it reversely by:
@@ -30,10 +35,12 @@
    
    And....
 
+   https://github.com/user-attachments/assets/84e60c80-773b-4067-b85d-9fc037b7861a
    
-   Successfully switch on the monitor! Hooray🎉  
+   #### Successfully switch on the monitor! Hooray🎉  
 
-8. Lastly, close the casing back.  
+7. Lastly, close the casing back.
+   
    <img src="https://github.com/user-attachments/assets/277cade3-d204-4438-9112-3dceedcf80d9" width="180" />
 
 
@@ -48,10 +55,10 @@
 | **Power Supply Unit (PSU)** | Converts electrical power for the computer components.                                       |
 | **Cables**              | Connects components to allow communication and proper functioning.                          |
 
-## Group Members:
-### Photo of group members:
-We are a girl group, and we were the first group to finish the task! A huge thanks to all my lovely groupmates for their hard work and collaboration.  
+## Photo of Group Members:
+We are a girl group, and we were the first group to finish the task! A huge thanks to all my lovely groupmates. 🥰  
+
 <img src="https://github.com/user-attachments/assets/3f329d59-c102-4efb-b784-4d738ef3c737" width="500" />
 
-## Reflection:
+## 💡 Reflection:
 Honestly, I was really surprised when I learned that we would have the opportunity to assemble and disassemble the CPU of a PC! I’ve always been someone who enjoys hands-on, practical exercises, and this lab provided me with invaluable experience. It gave me a deeper understanding of the components and structure of a CPU. This hands-on activity was incredibly helpful, and I feel more confident in my knowledge of how the parts of a computer work together. It truly was an unforgettable experience!
