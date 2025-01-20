@@ -26,12 +26,16 @@
 5. Connect the cables to the relevant components.
 6. Test it with a monitor!
    
-   And....  
+   <img src="https://github.com/user-attachments/assets/7734a19d-0a9d-4556-a6a1-05f751158d7a" width="180" />
+   
+   And....
+
+   
    Successfully switch on the monitor! Hooray🎉  
-   ![Test monitor](path_to_your_image.jpg)  
-   [Video: PC Assembly Process](video_url)  
-7. Lastly, close the casing back.  
-   ![Final step](path_to_your_image.jpg)
+
+8. Lastly, close the casing back.  
+   <img src="https://github.com/user-attachments/assets/277cade3-d204-4438-9112-3dceedcf80d9" width="180" />
+
 
 ## ALL DONE! 🎉
 
@@ -47,8 +51,7 @@
 ## Group Members:
 ### Photo of group members:
 We are a girl group, and we were the first group to finish the task! A huge thanks to all my lovely groupmates for their hard work and collaboration.  
-
-![Group photo](path_to_your_image.jpg)
+<img src="https://github.com/user-attachments/assets/3f329d59-c102-4efb-b784-4d738ef3c737" width="500" />
 
 ## Reflection:
 Honestly, I was really surprised when I learned that we would have the opportunity to assemble and disassemble the CPU of a PC! I’ve always been someone who enjoys hands-on, practical exercises, and this lab provided me with invaluable experience. It gave me a deeper understanding of the components and structure of a CPU. This hands-on activity was incredibly helpful, and I feel more confident in my knowledge of how the parts of a computer work together. It truly was an unforgettable experience!
