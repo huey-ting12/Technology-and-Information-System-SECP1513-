@@ -19,7 +19,7 @@ Agriculture is one of the oldest and most important industries in the world, pro
 Technologies like **AI-powered drones**, **sensors**, and **robots** are significantly improving farming efficiency by optimizing crop monitoring, irrigation, and harvesting. These advancements help farmers:
 
 - Increase productivity 📈
-- Minimize waste 🌿
+- Minimize waste 🍁
 - Promote sustainability 🌍
 
 Automation is also reducing the need for manual labor, lowering operational costs, and enhancing safety in the field. It's amazing how much technology is transforming this age-old industry!
@@ -35,19 +35,19 @@ One of the most memorable technologies from the video for me was **AI-powered ro
 
 It was truly eye-opening to see how this technology has improved so many aspects of farming.
 
-### 🐝 **AI-Powered Pollination & Weed Detection**
+### **🌿 Weed Detection & AI-Powered Pollination 🐝**
 
 Some of the technologies are pretty fun and memorable for me as well, especially the **Weed and Pest Detection** system. The concept of detecting weeds and directly burning them with precision felt like something straight out of a sci-fi movie! 🌱🔥
 
 Video of **Weed and Pest Detection**:
 
-https://github.com/user-attachments/assets/46a66490-7812-4187-b693-3dcfb14962a4
+https://github.com/user-attachments/assets/5dc7094a-faad-47b4-9e31-104034e21e97
 
 *Credit: Discover Agriculture YouTube Channel*
 
 But the one that really blew my mind was **Pollination** using AI-powered drones that mimic the behavior of bees 🐝. These drones even look like bees! The idea of drones playing the role of pollinators is both **fascinating** and **awe-inspiring**. Imagine an AI-powered drone looking like a bee and helping to pollinate plants! How cool is that? 😲 Here’s a concept image of what this might look like:
 
-<img src="https://github.com/user-attachments/assets/5e6792f6-910c-45c7-afb4-4b7f3a3bf0ab" width="250"/>
+<img src="https://github.com/user-attachments/assets/5e6792f6-910c-45c7-afb4-4b7f3a3bf0ab" width="300"/>
 
 *Credit: Polynoid/Greenpeace/Vimeo*
 
