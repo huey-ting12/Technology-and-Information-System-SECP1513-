@@ -1,7 +1,8 @@
 # 🌟 Industrial Visit Reflection: UTM Digital
 
-Sorry for the low resolution video due to GitHub's file limitation. You can check out the video hosted on GitHub here:  
-[GitHub Video Link](https://github.com/user-attachments/assets/f7ad466b-ce4c-4b64-8be8-e3f746b5ef69)
+Sorry for the low resolution video due to GitHub's file limitation. You can check out the video hosted on GitHub here:
+
+https://github.com/user-attachments/assets/0dd8af4d-af17-4ec6-bd67-66f1f23ccab6
 
 Alternatively, feel free to check out the full resolution video on Google Drive:  
 ## [View the Video](https://drive.google.com/file/d/1pOgmmBUFc3bpXclwR78TnjQljSr9_zil/view?usp=sharing) 🎥
