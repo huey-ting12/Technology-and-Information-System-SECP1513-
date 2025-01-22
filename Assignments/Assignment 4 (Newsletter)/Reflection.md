@@ -39,9 +39,17 @@ It was truly eye-opening to see how this technology has improved so many aspects
 
 Some of the technologies are pretty fun and memorable for me as well, especially the **Weed and Pest Detection** system. The concept of detecting weeds and directly burning them with precision felt like something straight out of a sci-fi movie! 🌱🔥
 
+Video of **Weed and Pest Detection**:
+
+https://github.com/user-attachments/assets/46a66490-7812-4187-b693-3dcfb14962a4
+
+*Credit: Discover Agriculture YouTube Channel*
+
 But the one that really blew my mind was **Pollination** using AI-powered drones that mimic the behavior of bees 🐝. These drones even look like bees! The idea of drones playing the role of pollinators is both **fascinating** and **awe-inspiring**. Imagine an AI-powered drone looking like a bee and helping to pollinate plants! How cool is that? 😲 Here’s a concept image of what this might look like:
 
-![AI Drone Mimicking Bee](link-to-image)
+<img src="https://github.com/user-attachments/assets/5e6792f6-910c-45c7-afb4-4b7f3a3bf0ab" width="250"/>
+
+*Credit: Polynoid/Greenpeace/Vimeo*
 
 ### 🌍 **AI in Agriculture: A Bright Future**
 
