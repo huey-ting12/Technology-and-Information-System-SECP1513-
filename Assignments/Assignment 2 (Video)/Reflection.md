@@ -1,9 +1,12 @@
 # 🌟 Industrial Visit Reflection: UTM Digital
 
-Due to GitHub's file limitation, feel free to check out our industrial visit video to UTM Digital by this link:  
+Sorry for the low resolution video due to GitHub's file limitation. You can check out the video hosted on GitHub here:  
+[GitHub Video Link](https://github.com/user-attachments/assets/f7ad466b-ce4c-4b64-8be8-e3f746b5ef69)
+
+Alternatively, feel free to check out the full resolution video on Google Drive:  
 ## [View the Video](https://drive.google.com/file/d/1pOgmmBUFc3bpXclwR78TnjQljSr9_zil/view?usp=sharing) 🎥
 
-On **10th December 2024**, we had the privilege of visiting **UTM Digital**, and it couldn’t have been a better day for an industrial visit—the weather was **sunny**, and I was **excited beyond words**! 😄 This was my **first time** visiting a real workplace, and the experience was truly **eye-opening**.
+On **10th December 2024**, we had the chance of visiting **UTM Digital**, and it couldn’t have been a better day for an industrial visit—the weather was **sunny**, and I was **excited beyond words**! 😄 This was my **first time** visiting a real workplace, and the experience was truly **eye-opening**.
 
 ## 🏢 Introduction to UTM Digital
 
@@ -46,8 +49,8 @@ One of the highlights of the visit was an **interview with a System Analyst** at
 
 I left the visit feeling **incredibly inspired** and motivated about my future career. It was a great opportunity to see the inner workings of a company like UTM Digital, and I am **grateful** for the chance to learn from their **experienced, friendly staff**. 🌟
 
-I look forward to what lies ahead in my career and am excited to apply the lessons I’ve learned during this visit. 
+I look forward to what lies ahead in my career and am excited to apply the lessons I’ve learned during this visit. 🚀
 
 ---
 
-Thank you so much, **UTM Digital**, for such an inspiring experience!!!🤩
+Thank you so much, **UTM Digital**, for such an inspiring experience!!! 🤩
